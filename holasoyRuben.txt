@@ -3,5 +3,3 @@ Hola, Git!
 Soy Rubén.
 
 Saludos.
-
-Hasta pronto.
